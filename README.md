@@ -1,7 +1,7 @@
 # Weather_App
 🌦 Weather Forecast App
 
-A simple and interactive Streamlit app that shows weather forecasts and allows users to download a PDF report with icons (☀️ 🌧️ 🌤️).
+A simple and interactive Streamlit app that shows weather forecasts and allows users to download a csv report
 
 ✨ Features
 
@@ -11,7 +11,7 @@ A simple and interactive Streamlit app that shows weather forecasts and allows u
 
 🌡️ View temperature, condition, and icons for each day
 
-📄 Download weather forecast as a PDF report with images
+📄 Download weather forecast as a csv report 
 
 🚀 Tech Stack
 
