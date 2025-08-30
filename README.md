@@ -3,7 +3,7 @@
 
 A simple and interactive Streamlit app that shows weather forecasts and allows users to download a csv report
 
-  Features
+  Features :-
 
   Enter any city to get live  current weather  and forecast
 
@@ -13,7 +13,7 @@ A simple and interactive Streamlit app that shows weather forecasts and allows u
 
  Download weather forecast as a csv report 
 
- Tech Stack
+ Tech Stack :-
 
    Streamlit  – Web app framework
    
